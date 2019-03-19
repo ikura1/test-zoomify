@@ -17,14 +17,14 @@
   },
   "homepage": "https://github.com/ikura1/test-zoomify#readme",
   "dependencies": {
-    "leaflet": "^1.4.0",
-    "moment": "^2.24.0",
-    "zoomify": "^0.2.5"
+    "leaflet": "^0.7.7"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-dev-server": "^3.2.1"
